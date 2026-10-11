@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2213F4
+test_cases:
+- expected_values:
+    MII_IGA_CYL_KNK_2: 0
+  response: 7E8056213F48052
+- expected_values:
+    MII_IGA_CYL_KNK_2: 0
+  response: 7E8056213F48090
+- expected_values:
+    MII_IGA_CYL_KNK_2: 0.375
+  response: 7E8056213F4812C
+- expected_values:
+    MII_IGA_CYL_KNK_2: 0.375
+  response: 7E8056213F4814F

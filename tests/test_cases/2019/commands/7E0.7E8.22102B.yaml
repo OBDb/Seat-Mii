@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22102B
+test_cases:
+- expected_values:
+    MII_ACCEL_PEDAL_SENS_2_V: 362.4
+  response: 7E80562102B0714
+- expected_values:
+    MII_ACCEL_PEDAL_SENS_2_V: 363.6
+  response: 7E80562102B071A
+- expected_values:
+    MII_ACCEL_PEDAL_SENS_2_V: 710.6
+  response: 7E80562102B0DE1
+- expected_values:
+    MII_ACCEL_PEDAL_SENS_2_V: 870.4
+  response: 7E80562102B1100
+- expected_values:
+    MII_ACCEL_PEDAL_SENS_2_V: 984
+  response: 7E80562102B1338
+- expected_values:
+    MII_ACCEL_PEDAL_SENS_2_V: 1131.6
+  response: 7E80562102B161A

@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Volkswagen_Up"
+
+generations:
+  - name: "First Generation"
+    start_year: 2011
+    end_year: 2021
+    description: "A city car on the Volkswagen NSF platform shared with the Up and Skoda Citigo, with a 1.0 L three-cylinder; the Mii electric was sold from 2019."

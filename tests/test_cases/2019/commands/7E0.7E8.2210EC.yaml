@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2210EC
+test_cases:
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: 0.04688
+  response: 7E8056210EC0003
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: 0.09375
+  response: 7E8056210EC0006
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: 0.1875
+  response: 7E8056210EC000C
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: 0.29688
+  response: 7E8056210EC0013
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: 0.46875
+  response: 7E8056210EC001E
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: 3.23438
+  response: 7E8056210EC00CF
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: -5.14062
+  response: 7E8056210ECFEB7
+- expected_values:
+    MII_VLV_TIM_DIFF_ACT_SET: -2.5
+  response: 7E8056210ECFF60

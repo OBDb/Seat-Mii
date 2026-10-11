@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221221
+test_cases:
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 2.6
+  response: 7E805621221000D
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 2.8
+  response: 7E805621221000E
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 3.4
+  response: '7E8056212210011'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 3.8
+  response: '7E8056212210013'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 4
+  response: '7E8056212210014'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 4.2
+  response: '7E8056212210015'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 4.4
+  response: '7E8056212210016'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 4.6
+  response: '7E8056212210017'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 4.8
+  response: '7E8056212210018'
+- expected_values:
+    MII_PQ35_ACCEL_PED_1: 5
+  response: '7E8056212210019'

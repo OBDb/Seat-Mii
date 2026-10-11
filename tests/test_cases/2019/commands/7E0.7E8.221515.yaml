@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.221515
+test_cases:
+- expected_values:
+    MII_CAT_T_CALC: 415
+  response: 7E8046215155D
+- expected_values:
+    MII_CAT_T_CALC: 490
+  response: 7E8046215156C
+- expected_values:
+    MII_CAT_T_CALC: 530
+  response: '7E80462151574'
+- expected_values:
+    MII_CAT_T_CALC: 535
+  response: '7E80462151575'
+- expected_values:
+    MII_CAT_T_CALC: 550
+  response: '7E80462151578'
+- expected_values:
+    MII_CAT_T_CALC: 555
+  response: '7E80462151579'
+- expected_values:
+    MII_CAT_T_CALC: 610
+  response: '7E80462151584'
+- expected_values:
+    MII_CAT_T_CALC: 635
+  response: '7E80462151589'
+- expected_values:
+    MII_CAT_T_CALC: 705
+  response: '7E80462151597'

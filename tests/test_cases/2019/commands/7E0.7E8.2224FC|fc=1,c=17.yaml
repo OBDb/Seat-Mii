@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.2224FC|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_FLI_INPUT_VAR_2: 15
+  response: 7E8056224FC0096
+- expected_values:
+    MII_FLI_INPUT_VAR_2: 16
+  response: 7E8056224FC00A0
+- expected_values:
+    MII_FLI_INPUT_VAR_2: 17
+  response: 7E8056224FC00AA
+- expected_values:
+    MII_FLI_INPUT_VAR_2: 18
+  response: 7E8056224FC00B4
+- expected_values:
+    MII_FLI_INPUT_VAR_2: 19
+  response: 7E8056224FC00BE

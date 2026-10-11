@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221017|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_AC_COMP_P: 8200
+  response: '7E8056210171004'
+- expected_values:
+    MII_AC_COMP_P: 8600
+  response: 7E80562101710CC
+- expected_values:
+    MII_AC_COMP_P: 9200
+  response: 7E80562101711F8
+- expected_values:
+    MII_AC_COMP_P: 9600
+  response: 7E80562101712C0
+- expected_values:
+    MII_AC_COMP_P: 10000
+  response: '7E8056210171388'
+- expected_values:
+    MII_AC_COMP_P: 13200
+  response: 7E80562101719C8

@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22F43C
+test_cases:
+- expected_values:
+    MII_EXH_GAS_T: 461.5
+  response: 7E80562F43C1397
+- expected_values:
+    MII_EXH_GAS_T: 479.7
+  response: 7E80562F43C144D
+- expected_values:
+    MII_EXH_GAS_T: 530.2
+  response: 7E80562F43C1646
+- expected_values:
+    MII_EXH_GAS_T: 561.8
+  response: 7E80562F43C1782
+- expected_values:
+    MII_EXH_GAS_T: 611.5
+  response: 7E80562F43C1973
+- expected_values:
+    MII_EXH_GAS_T: 615.8
+  response: 7E80562F43C199E
+- expected_values:
+    MII_EXH_GAS_T: 651.8
+  response: 7E80562F43C1B06
+- expected_values:
+    MII_EXH_GAS_T: 706.3
+  response: 7E80562F43C1D27

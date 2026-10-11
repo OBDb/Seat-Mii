@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2210D3
+test_cases:
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.00145
+  response: 7E8056210D3001D
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.0015
+  response: 7E8056210D3001E
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.00285
+  response: 7E8056210D30039
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.0029
+  response: 7E8056210D3003A
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.003
+  response: 7E8056210D3003C
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.0051
+  response: 7E8056210D30066
+- expected_values:
+    MII_PQ35_INJ_2_RAIL_P_1: 0.00525
+  response: 7E8056210D30069

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221010|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_ENG_TQ: 26
+  response: '7E8056210100104'
+- expected_values:
+    MII_ENG_TQ: 26.5
+  response: '7E8056210100109'
+- expected_values:
+    MII_ENG_TQ: 26.9
+  response: 7E805621010010D
+- expected_values:
+    MII_ENG_TQ: 60.2
+  response: 7E805621010025A
+- expected_values:
+    MII_ENG_TQ: 63.7
+  response: 7E805621010027D
+- expected_values:
+    MII_ENG_TQ: 69.1
+  response: 7E80562101002B3
+- expected_values:
+    MII_ENG_TQ: 83
+  response: 7E805621010033E

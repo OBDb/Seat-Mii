@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22136E
+test_cases:
+- expected_values:
+    MII_CAM_ADJ_INT_BANK_1_ACT: 27.92969
+  response: 7E80562136E0DF7
+- expected_values:
+    MII_CAM_ADJ_INT_BANK_1_ACT: 28.01562
+  response: 7E80562136E0E02
+- expected_values:
+    MII_CAM_ADJ_INT_BANK_1_ACT: 28.0625
+  response: 7E80562136E0E08
+- expected_values:
+    MII_CAM_ADJ_INT_BANK_1_ACT: 28.19531
+  response: 7E80562136E0E19
+- expected_values:
+    MII_CAM_ADJ_INT_BANK_1_ACT: -13.44531
+  response: 7E80562136EF947
+- expected_values:
+    MII_CAM_ADJ_INT_BANK_1_ACT: -11.25
+  response: 7E80562136EFA60

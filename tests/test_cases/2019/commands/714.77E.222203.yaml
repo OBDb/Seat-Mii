@@ -1,0 +1,26 @@
+command_id: 714.77E.222203
+test_cases:
+- expected_values:
+    MII_ODO_DASH: 4410
+  response: 77E05622203113A
+- expected_values:
+    MII_ODO_DASH: 4411
+  response: 77E05622203113B
+- expected_values:
+    MII_ODO_DASH: 4412
+  response: 77E05622203113C
+- expected_values:
+    MII_ODO_DASH: 4414
+  response: 77E05622203113E
+- expected_values:
+    MII_ODO_DASH: 4415
+  response: 77E05622203113F
+- expected_values:
+    MII_ODO_DASH: 4416
+  response: '77E056222031140'
+- expected_values:
+    MII_ODO_DASH: 4417
+  response: '77E056222031141'
+- expected_values:
+    MII_ODO_DASH: 4418
+  response: '77E056222031142'

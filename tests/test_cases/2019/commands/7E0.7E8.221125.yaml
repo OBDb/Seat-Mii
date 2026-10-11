@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221125
+test_cases:
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.09865
+  response: '7E8056211250032'
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.16457
+  response: '7E8056211250035'
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.18654
+  response: '7E8056211250036'
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.25246
+  response: '7E8056211250039'
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.31838
+  response: 7E805621125003C
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.34035
+  response: 7E805621125003D
+- expected_values:
+    MII_CAM_ADPT_INT_BANK_1: 1.40627
+  response: '7E8056211250040'

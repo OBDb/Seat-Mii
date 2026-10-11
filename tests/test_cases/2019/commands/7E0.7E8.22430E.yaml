@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22430E
+test_cases:
+- expected_values:
+    MII_NUM_INJECTIONS: 2258
+  response: 7E80562430E08D2
+- expected_values:
+    MII_NUM_INJECTIONS: 2782
+  response: 7E80562430E0ADE
+- expected_values:
+    MII_NUM_INJECTIONS: 3472
+  response: 7E80562430E0D90
+- expected_values:
+    MII_NUM_INJECTIONS: 4911
+  response: 7E80562430E132F
+- expected_values:
+    MII_NUM_INJECTIONS: 7433
+  response: 7E80562430E1D09
+- expected_values:
+    MII_NUM_INJECTIONS: 7853
+  response: 7E80562430E1EAD
+- expected_values:
+    MII_NUM_INJECTIONS: 8044
+  response: 7E80562430E1F6C
+- expected_values:
+    MII_NUM_INJECTIONS: 8348
+  response: 7E80562430E209C

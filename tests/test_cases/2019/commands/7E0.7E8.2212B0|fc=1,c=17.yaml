@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2212B0|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: 0
+  response: 7E8056212B00000
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: 0.216
+  response: 7E8056212B000D8
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: 0.264
+  response: 7E8056212B00108
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: 0.321
+  response: 7E8056212B00141
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: -0.237
+  response: 7E8056212B0FF13
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: -0.198
+  response: 7E8056212B0FF3A
+- expected_values:
+    MII_ACCELERATION_29BIT_7E0: -0.197
+  response: 7E8056212B0FF3B

@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F449
+test_cases:
+- expected_values:
+    MII_ACCEL_POS_1: 14.11765
+  response: 7E80462F44924
+- expected_values:
+    MII_ACCEL_POS_1: 21.17647
+  response: 7E80462F44936
+- expected_values:
+    MII_ACCEL_POS_1: 27.05882
+  response: 7E80462F44945
+- expected_values:
+    MII_ACCEL_POS_1: 42.35294
+  response: 7E80462F4496C

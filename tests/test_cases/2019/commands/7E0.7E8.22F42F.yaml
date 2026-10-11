@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F42F
+test_cases:
+- expected_values:
+    MII_FLI_INPUT: 41.17647
+  response: 7E80462F42F69
+- expected_values:
+    MII_FLI_INPUT: 43.92157
+  response: 7E80462F42F70
+- expected_values:
+    MII_FLI_INPUT: 46.66667
+  response: 7E80462F42F77
+- expected_values:
+    MII_FLI_INPUT: 52.54902
+  response: 7E80462F42F86

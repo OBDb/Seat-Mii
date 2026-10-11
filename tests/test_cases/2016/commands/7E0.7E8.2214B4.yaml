@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2214B4
+test_cases:
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 12
+  response: 7E8056214B404B0
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 24
+  response: 7E8056214B40960
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 25
+  response: 7E8056214B409C4
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 26
+  response: 7E8056214B40A28
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 33
+  response: 7E8056214B40CE4
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 34
+  response: 7E8056214B40D48
+- expected_values:
+    MII_FUEL_LEVEL_INPUT_V1: 35
+  response: 7E8056214B40DAC

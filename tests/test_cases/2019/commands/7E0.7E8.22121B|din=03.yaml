@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22121B|din=03
+test_cases:
+- expected_values:
+    MII_POST_INJ_2_7E0_7E0: 1.5312
+  response: 7E80562121B0EF4
+- expected_values:
+    MII_POST_INJ_2_7E0_7E0: 1.55
+  response: 7E80562121B0F23
+- expected_values:
+    MII_POST_INJ_2_7E0_7E0: 1.584
+  response: 7E80562121B0F78
+- expected_values:
+    MII_POST_INJ_2_7E0_7E0: 1.6816
+  response: 7E80562121B106C

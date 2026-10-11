@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.22121C
+test_cases:
+- expected_values:
+    MII_AIR_FILLING: 12.60964
+  response: 7E80562121C021A
+- expected_values:
+    MII_AIR_FILLING: 12.67996
+  response: 7E80562121C021D
+- expected_values:
+    MII_AIR_FILLING: 12.96121
+  response: 7E80562121C0229
+- expected_values:
+    MII_AIR_FILLING: 18.0707
+  response: 7E80562121C0303
+- expected_values:
+    MII_AIR_FILLING: 20.39106
+  response: 7E80562121C0366
+- expected_values:
+    MII_AIR_FILLING: 27.6334
+  response: 7E80562121C049B
+- expected_values:
+    MII_AIR_FILLING: 36.02421
+  response: 7E80562121C0601
+- expected_values:
+    MII_AIR_FILLING: 40.87587
+  response: 7E80562121C06D0

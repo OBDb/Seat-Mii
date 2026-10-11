@@ -1,0 +1,14 @@
+command_id: 713.77D.22180E|fc=1
+test_cases:
+- expected_values:
+    MII_BDD_ACTIVE: 0
+    MII_BDD_ODO: 33450
+  response: |-
+    77D100862180E000082
+    77D21AA00AAAAAAAAAA
+- expected_values:
+    MII_BDD_ACTIVE: 0
+    MII_BDD_ODO: 43045
+  response: |-
+    77D100862180E0000A8
+    77D212500AAAAAAAAAA

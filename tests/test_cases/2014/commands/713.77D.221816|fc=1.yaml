@@ -1,0 +1,20 @@
+command_id: 713.77D.221816|fc=1
+test_cases:
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 79.98
+  response: |-
+    77D100C621816001F3E
+    77D2100800484FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 80.1
+  response: |-
+    77D100C621816011F4A
+    77D2100840480FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 81.92
+  response: |-
+    77D100C621816012000
+    77D2100BE0446FFFEAA

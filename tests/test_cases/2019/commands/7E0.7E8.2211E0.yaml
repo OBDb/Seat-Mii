@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2211E0
+test_cases:
+- expected_values:
+    MII_CMD_CRANK_TQ: 23.4
+  response: 7E8056211E000EA
+- expected_values:
+    MII_CMD_CRANK_TQ: 26.6
+  response: 7E8056211E0010A
+- expected_values:
+    MII_CMD_CRANK_TQ: 35.8
+  response: 7E8056211E00166
+- expected_values:
+    MII_CMD_CRANK_TQ: 38.7
+  response: 7E8056211E00183
+- expected_values:
+    MII_CMD_CRANK_TQ: 66.5
+  response: 7E8056211E00299
+- expected_values:
+    MII_CMD_CRANK_TQ: 75.9
+  response: 7E8056211E002F7
+- expected_values:
+    MII_CMD_CRANK_TQ: -11
+  response: 7E8056211E0FF92
+- expected_values:
+    MII_CMD_CRANK_TQ: -10.5
+  response: 7E8056211E0FF97
+- expected_values:
+    MII_CMD_CRANK_TQ: -9.5
+  response: 7E8056211E0FFA1

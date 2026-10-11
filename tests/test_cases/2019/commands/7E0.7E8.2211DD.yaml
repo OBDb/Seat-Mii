@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211DD
+test_cases:
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 216.09375
+  response: 7E8056211DD0ACE
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 238.4375
+  response: 7E8056211DD0BEC
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 274.53125
+  response: 7E8056211DD0DBA
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 393.59375
+  response: 7E8056211DD13AE
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 412.89062
+  response: 7E8056211DD14A5
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 434.29688
+  response: 7E8056211DD15B7
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 481.40625
+  response: 7E8056211DD1812
+- expected_values:
+    MII_INT_MANIFOLD_P_CMD: 679.21875
+  response: 7E8056211DD21F6

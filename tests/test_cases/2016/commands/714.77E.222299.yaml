@@ -1,0 +1,20 @@
+command_id: 714.77E.222299
+test_cases:
+- expected_values:
+    MII_FUEL_AVG: 4.4
+  response: 77E05622299002C
+- expected_values:
+    MII_FUEL_AVG: 4.7
+  response: 77E05622299002F
+- expected_values:
+    MII_FUEL_AVG: 4.8
+  response: '77E056222990030'
+- expected_values:
+    MII_FUEL_AVG: 5.5
+  response: '77E056222990037'
+- expected_values:
+    MII_FUEL_AVG: 6.8
+  response: '77E056222990044'
+- expected_values:
+    MII_FUEL_AVG: 7
+  response: '77E056222990046'

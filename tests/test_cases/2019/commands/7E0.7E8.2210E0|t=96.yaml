@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2210E0|t=96
+test_cases:
+- expected_values:
+    MII_ODO_7E0: 41956
+  response: 7E8076210E00000A3E4
+- expected_values:
+    MII_ODO_7E0: 43775
+  response: 7E8076210E00000AAFF
+- expected_values:
+    MII_ODO_7E0: 43791
+  response: 7E8076210E00000AB0F
+- expected_values:
+    MII_ODO_7E0: 44065
+  response: 7E8076210E00000AC21

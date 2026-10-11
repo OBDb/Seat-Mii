@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2215E7
+test_cases:
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 1.5
+  response: 7E8076215E7000005DC
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 2.596
+  response: 7E8076215E700000A24
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 3.062
+  response: 7E8076215E700000BF6
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 3.652
+  response: 7E8076215E700000E44
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 5.691
+  response: 7E8076215E70000163B
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 10.771
+  response: 7E8076215E700002A13
+- expected_values:
+    MII_EFFECTIVE_INJ_DUR: 11.21
+  response: 7E8076215E700002BCA

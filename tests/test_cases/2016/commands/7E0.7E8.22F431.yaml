@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.22F431
+test_cases:
+- expected_values:
+    MII_CLR_DIST: 2643
+  response: 7E80562F4310A53
+- expected_values:
+    MII_CLR_DIST: 2654
+  response: 7E80562F4310A5E
+- expected_values:
+    MII_CLR_DIST: 2657
+  response: 7E80562F4310A61
+- expected_values:
+    MII_CLR_DIST: 2661
+  response: 7E80562F4310A65
+- expected_values:
+    MII_CLR_DIST: 2670
+  response: 7E80562F4310A6E
+- expected_values:
+    MII_CLR_DIST: 2757
+  response: 7E80562F4310AC5
+- expected_values:
+    MII_CLR_DIST: 2771
+  response: 7E80562F4310AD3
+- expected_values:
+    MII_CLR_DIST: 3605
+  response: 7E80562F4310E15
+- expected_values:
+    MII_CLR_DIST: 3627
+  response: 7E80562F4310E2B
+- expected_values:
+    MII_CLR_DIST: 4311
+  response: 7E80562F43110D7

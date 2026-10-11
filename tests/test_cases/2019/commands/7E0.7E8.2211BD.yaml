@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BD
+test_cases:
+- expected_values:
+    MII_EOT_ECM: 27.8
+  response: 7E8056211BD0BC1
+- expected_values:
+    MII_EOT_ECM: 33.8
+  response: 7E8056211BD0BFD
+- expected_values:
+    MII_EOT_ECM: 85.5
+  response: 7E8056211BD0E02
