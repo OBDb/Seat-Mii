@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221282
+test_cases:
+- expected_values:
+    MII_EXHAUST_GAS_T_BEFORE_CATALYST: 136.35
+  response: '7E8056212824082'
+- expected_values:
+    MII_EXHAUST_GAS_T_BEFORE_CATALYST: 415.41
+  response: '7E8056212827703'
+- expected_values:
+    MII_EXHAUST_GAS_T_BEFORE_CATALYST: 420.25
+  response: 7E80562128277F5
+- expected_values:
+    MII_EXHAUST_GAS_T_BEFORE_CATALYST: 616.95
+  response: 7E8056212829E60

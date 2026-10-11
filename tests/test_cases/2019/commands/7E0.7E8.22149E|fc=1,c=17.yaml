@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.22149E|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_INTAKE_AIR_T_IN_INTAKE_MANIFOLD_7E0: 30.75
+  response: 7E80462149E69
+- expected_values:
+    MII_INTAKE_AIR_T_IN_INTAKE_MANIFOLD_7E0: 42
+  response: 7E80462149E78
+- expected_values:
+    MII_INTAKE_AIR_T_IN_INTAKE_MANIFOLD_7E0: 45
+  response: 7E80462149E7C
+- expected_values:
+    MII_INTAKE_AIR_T_IN_INTAKE_MANIFOLD_7E0: 46.5
+  response: 7E80462149E7E
+- expected_values:
+    MII_INTAKE_AIR_T_IN_INTAKE_MANIFOLD_7E0: 48.75
+  response: 7E80462149E81
+- expected_values:
+    MII_INTAKE_AIR_T_IN_INTAKE_MANIFOLD_7E0: 59.25
+  response: 7E80462149E8F

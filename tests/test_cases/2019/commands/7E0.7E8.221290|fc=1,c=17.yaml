@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221290|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 719.07883
+  response: 7E805621290A560
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 719.71163
+  response: 7E805621290A57B
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 720.03975
+  response: 7E805621290A589
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 720.11006
+  response: 7E805621290A58C
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 720.27412
+  response: 7E805621290A593
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 720.53193
+  response: 7E805621290A59E
+- expected_values:
+    MII_OXYGEN_SNS_1_BANK_1_CERAMIC_T_7E0: 720.60224
+  response: 7E805621290A5A1

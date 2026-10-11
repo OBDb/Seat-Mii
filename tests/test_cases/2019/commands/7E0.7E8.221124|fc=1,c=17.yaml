@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221124|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_CAM_SPD: 434.25
+  response: 7E80562112406C9
+- expected_values:
+    MII_CAM_SPD: 682.75
+  response: 7E8056211240AAB
+- expected_values:
+    MII_CAM_SPD: 700.75
+  response: 7E8056211240AF3
+- expected_values:
+    MII_CAM_SPD: 735
+  response: 7E8056211240B7C
+- expected_values:
+    MII_CAM_SPD: 763.25
+  response: 7E8056211240BED
+- expected_values:
+    MII_CAM_SPD: 962.25
+  response: 7E8056211240F09
+- expected_values:
+    MII_CAM_SPD: 979
+  response: 7E8056211240F4C

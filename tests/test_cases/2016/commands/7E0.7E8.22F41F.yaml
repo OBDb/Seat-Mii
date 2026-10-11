@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F41F
+test_cases:
+- expected_values:
+    MII_RUNTM: 71
+  response: 7E80562F41F0047
+- expected_values:
+    MII_RUNTM: 236
+  response: 7E80562F41F00EC
+- expected_values:
+    MII_RUNTM: 260
+  response: 7E80562F41F0104
+- expected_values:
+    MII_RUNTM: 526
+  response: 7E80562F41F020E

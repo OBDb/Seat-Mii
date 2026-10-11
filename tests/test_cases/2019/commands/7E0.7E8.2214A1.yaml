@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2214A1
+test_cases:
+- expected_values:
+    MII_RATED_DRIVE_TQ: 81.9
+  response: 7E8076214A100000333
+- expected_values:
+    MII_RATED_DRIVE_TQ: 103.5
+  response: 7E8076214A10000040B
+- expected_values:
+    MII_RATED_DRIVE_TQ: 266.1
+  response: 7E8076214A100000A65
+- expected_values:
+    MII_RATED_DRIVE_TQ: 465.6
+  response: 7E8076214A100001230
+- expected_values:
+    MII_RATED_DRIVE_TQ: -192.5
+  response: 7E8076214A1FFFFF87B
+- expected_values:
+    MII_RATED_DRIVE_TQ: -175
+  response: 7E8076214A1FFFFF92A
+- expected_values:
+    MII_RATED_DRIVE_TQ: -23.1
+  response: 7E8076214A1FFFFFF19
+- expected_values:
+    MII_RATED_DRIVE_TQ: -6.4
+  response: 7E8076214A1FFFFFFC0

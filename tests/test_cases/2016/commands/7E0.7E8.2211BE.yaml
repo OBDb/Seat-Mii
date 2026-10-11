@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    MII_11BE_RAW: -48
+  response: 7E8056211BEFFD0
+- expected_values:
+    MII_11BE_RAW: -46
+  response: 7E8056211BEFFD2
+- expected_values:
+    MII_11BE_RAW: -25
+  response: 7E8056211BEFFE7
+- expected_values:
+    MII_11BE_RAW: -24
+  response: 7E8056211BEFFE8
+- expected_values:
+    MII_11BE_RAW: -23
+  response: 7E8056211BEFFE9
+- expected_values:
+    MII_11BE_RAW: -19
+  response: 7E8056211BEFFED
+- expected_values:
+    MII_11BE_RAW: -18
+  response: 7E8056211BEFFEE
+- expected_values:
+    MII_11BE_RAW: -16
+  response: 7E8056211BEFFF0
+- expected_values:
+    MII_11BE_RAW: -8
+  response: 7E8056211BEFFF8

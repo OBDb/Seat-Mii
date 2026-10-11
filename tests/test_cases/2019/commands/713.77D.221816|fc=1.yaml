@@ -1,0 +1,44 @@
+command_id: 713.77D.221816|fc=1
+test_cases:
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 79.98
+  response: |-
+    77D100C621816001F3E
+    77D2100800480FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 80.01
+  response: |-
+    77D100C621816001F41
+    77D21007F0483FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 80.02
+  response: |-
+    77D100C621816011F42
+    77D2100820481FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 81.07
+  response: |-
+    77D100C621816011FAB
+    77D2100A3045FFFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 81.85
+  response: |-
+    77D100C621816011FF9
+    77D2100BC0446FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 81.96
+  response: |-
+    77D100C621816012004
+    77D2100C00442FFFEAA
+- expected_values:
+    MII_AIR_GAB_VACUUM_SNS: 0
+    MII_BRAKE_P_SNS: 84.14
+  response: |-
+    77D100C6218160120DE
+    77D21010503FDFFFEAA

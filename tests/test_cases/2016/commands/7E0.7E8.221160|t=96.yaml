@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221160|t=96
+test_cases:
+- expected_values:
+    MII_ODO_HD: 164887.901
+  response: 7E80762116009D3FD5D
+- expected_values:
+    MII_ODO_HD: 164899.277
+  response: 7E80762116009D429CD
+- expected_values:
+    MII_ODO_HD: 164901.453
+  response: 7E80762116009D4324D
+- expected_values:
+    MII_ODO_HD: 164906.362
+  response: 7E80762116009D4457A
+- expected_values:
+    MII_ODO_HD: 164914.53
+  response: 7E80762116009D46562
+- expected_values:
+    MII_ODO_HD: 165001.529
+  response: 7E80762116009D5B939
+- expected_values:
+    MII_ODO_HD: 165015.439
+  response: 7E80762116009D5EF8F
+- expected_values:
+    MII_ODO_HD: 165849.232
+  response: 7E80762116009E2A890
+- expected_values:
+    MII_ODO_HD: 165871.363
+  response: 7E80762116009E2FF03
+- expected_values:
+    MII_ODO_HD: 166554.473
+  response: 7E80762116009ED6B69

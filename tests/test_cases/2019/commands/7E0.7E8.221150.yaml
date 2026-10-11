@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221150
+test_cases:
+- expected_values:
+    MII_MISFIRES_C3: 8458
+  response: 7E805621150210A
+- expected_values:
+    MII_MISFIRES_C3: 8639
+  response: 7E80562115021BF

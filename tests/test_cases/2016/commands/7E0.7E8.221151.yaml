@@ -1,0 +1,32 @@
+command_id: 7E0.7E8.221151
+test_cases:
+- expected_values:
+    MII_MISFIRES__CYL__4: 61155
+  response: 7E805621151EEE3
+- expected_values:
+    MII_MISFIRES__CYL__4: 61171
+  response: 7E805621151EEF3
+- expected_values:
+    MII_MISFIRES__CYL__4: 61172
+  response: 7E805621151EEF4
+- expected_values:
+    MII_MISFIRES__CYL__4: 61188
+  response: 7E805621151EF04
+- expected_values:
+    MII_MISFIRES__CYL__4: 61202
+  response: 7E805621151EF12
+- expected_values:
+    MII_MISFIRES__CYL__4: 61307
+  response: 7E805621151EF7B
+- expected_values:
+    MII_MISFIRES__CYL__4: 61322
+  response: 7E805621151EF8A
+- expected_values:
+    MII_MISFIRES__CYL__4: 61552
+  response: 7E805621151F070
+- expected_values:
+    MII_MISFIRES__CYL__4: 61584
+  response: 7E805621151F090
+- expected_values:
+    MII_MISFIRES__CYL__4: 62184
+  response: 7E805621151F2E8

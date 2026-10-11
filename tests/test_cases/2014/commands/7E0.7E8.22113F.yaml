@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.22113F
+test_cases:
+- expected_values:
+    MII_FUEL_RATE: 0
+  response: 7E80562113F0000
+- expected_values:
+    MII_FUEL_RATE: 1.24
+  response: 7E80562113F007C
+- expected_values:
+    MII_FUEL_RATE: 2.71
+  response: 7E80562113F010F

@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2210BE
+test_cases:
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 7.2
+  response: 7E8056210BE0048
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 8.1
+  response: 7E8056210BE0051
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 8.3
+  response: 7E8056210BE0053
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 9.9
+  response: 7E8056210BE0063
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 11.7
+  response: 7E8056210BE0075
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 12
+  response: 7E8056210BE0078
+- expected_values:
+    MII_REQ_TQ_AMOUNT: 15.5
+  response: 7E8056210BE009B

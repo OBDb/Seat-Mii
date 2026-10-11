@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221160|t=96
+test_cases:
+- expected_values:
+    MII_ODO_HD: 41871.479
+  response: 7E807621160027EE877
+- expected_values:
+    MII_ODO_HD: 43645.746
+  response: 7E8076211600299FB32
+- expected_values:
+    MII_ODO_HD: 43745.791
+  response: 7E807621160029B81FF
+- expected_values:
+    MII_ODO_HD: 44042.581
+  response: 7E80762116002A00955
+- expected_values:
+    MII_ODO_HD: 44100.105
+  response: 7E80762116002A0EA09

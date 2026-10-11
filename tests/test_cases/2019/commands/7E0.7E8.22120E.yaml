@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22120E
+test_cases:
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 0.43641
+  response: 7E80562120E005A
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 0.66431
+  response: 7E80562120E0089
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 0.70795
+  response: 7E80562120E0092
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 0.80493
+  response: 7E80562120E00A6
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 1.00374
+  response: 7E80562120E00CF
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 2.94334
+  response: 7E80562120E025F
+- expected_values:
+    MII_KNOCK_SENS_CYL_1: 3.67554
+  response: 7E80562120E02F6

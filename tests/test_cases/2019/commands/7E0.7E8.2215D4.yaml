@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2215D4
+test_cases:
+- expected_values:
+    MII_LAMBDA_OUTPUT: 0.93481
+  response: 7E8056215D477A8
+- expected_values:
+    MII_LAMBDA_OUTPUT: 1
+  response: 7E8056215D48000
+- expected_values:
+    MII_LAMBDA_OUTPUT: 1.00354
+  response: 7E8056215D48074
+- expected_values:
+    MII_LAMBDA_OUTPUT: 1.04669
+  response: 7E8056215D485FA

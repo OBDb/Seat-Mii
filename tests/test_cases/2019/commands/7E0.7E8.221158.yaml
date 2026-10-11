@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221158
+test_cases:
+- expected_values:
+    MII_MAX_DCHA_CUR_2: -2.4
+  response: 7E805621158FFE8
+- expected_values:
+    MII_MAX_DCHA_CUR_2: -2.3
+  response: 7E805621158FFE9
+- expected_values:
+    MII_MAX_DCHA_CUR_2: -2.2
+  response: 7E805621158FFEA

@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.22101C|fc=1,c=17
+test_cases:
+- expected_values:
+    MII_ALTERNATOR_LOAD: 25.79
+  response: 7E80562101C0A13
+- expected_values:
+    MII_ALTERNATOR_LOAD: 32.23
+  response: 7E80562101C0C97
+- expected_values:
+    MII_ALTERNATOR_LOAD: 41.9
+  response: 7E80562101C105E
+- expected_values:
+    MII_ALTERNATOR_LOAD: 45.12
+  response: 7E80562101C11A0
+- expected_values:
+    MII_ALTERNATOR_LOAD: 51.57
+  response: 7E80562101C1425

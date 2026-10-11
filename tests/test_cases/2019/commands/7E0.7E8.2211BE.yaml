@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2211BE
+test_cases:
+- expected_values:
+    MII_11BE_RAW: 0
+  response: 7E8056211BE0000
+- expected_values:
+    MII_11BE_RAW: -10
+  response: 7E8056211BEFFF6
+- expected_values:
+    MII_11BE_RAW: -1
+  response: 7E8056211BEFFFF

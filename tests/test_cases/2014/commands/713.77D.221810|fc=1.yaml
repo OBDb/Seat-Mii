@@ -1,0 +1,12 @@
+command_id: 713.77D.221810|fc=1
+test_cases:
+- expected_values:
+    MII_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100A621810FE1F3E
+    77D21FFFEFFFEAAAAAA
+- expected_values:
+    MII_HYD_BRAKE_BOOST_ACTIVE: 1
+  response: |-
+    77D100A621810FE1FF1
+    77D21FFFEFFFEAAAAAA

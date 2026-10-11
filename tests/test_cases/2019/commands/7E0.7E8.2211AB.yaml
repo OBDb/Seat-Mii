@@ -1,0 +1,26 @@
+command_id: 7E0.7E8.2211AB
+test_cases:
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 8.2
+  response: 7E8056211AB0052
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 9.1
+  response: 7E8056211AB005B
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 12.9
+  response: 7E8056211AB0081
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 14.3
+  response: 7E8056211AB008F
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 20.2
+  response: 7E8056211AB00CA
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 24.6
+  response: 7E8056211AB00F6
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 41.8
+  response: 7E8056211AB01A2
+- expected_values:
+    MII_INT_MODEL_AIR_MASS: 56.2
+  response: 7E8056211AB0232

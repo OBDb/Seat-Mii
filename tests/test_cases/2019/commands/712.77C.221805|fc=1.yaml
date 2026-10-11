@@ -1,0 +1,32 @@
+command_id: 712.77C.221805|fc=1
+test_cases:
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: 0.20943
+  response: 77C06621805002203
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: 0.45116
+  response: 77C06621805005903
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: 0.95658
+  response: 77C0662180500CC03
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: 4.54729
+  response: 77C0662180503FD03
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: 12.08472
+  response: 77C066218050AB003
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: -10.44405
+  response: 77C06621805F6AA03
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: -6.94124
+  response: 77C06621805F9C703
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: -3.65377
+  response: 77C06621805FCB303
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: -1.52659
+  response: 77C06621805FE9703
+- expected_values:
+    MII_STEER_WHL_TQ_SENS_1: -0.04108
+  response: 77C06621805FFE903

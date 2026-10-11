@@ -1,0 +1,11 @@
+command_id: 712.77C.221812|fc=1
+test_cases:
+- expected_values:
+    MII_STEER_WHEEL_ANGLE: -749.25
+  response: 77C06621812000601
+- expected_values:
+    MII_STEER_WHEEL_ANGLE: 780
+  response: 77C06621812FF0601
+- expected_values:
+    MII_STEER_WHEEL_ANGLE: 780
+  response: 77C06621812FFEA01

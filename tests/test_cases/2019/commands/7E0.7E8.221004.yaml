@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.221004
+test_cases:
+- expected_values:
+    MII_AAT_V2: 0.03906
+  response: '7E8056210040005'
+- expected_values:
+    MII_AAT_V2: -1.96875
+  response: 7E805621004FF04
+- expected_values:
+    MII_AAT_V2: -0.01562
+  response: 7E805621004FFFE

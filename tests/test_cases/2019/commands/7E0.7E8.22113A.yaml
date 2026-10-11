@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.22113A
+test_cases:
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 0.98816
+  response: 7E80562113A3F3E
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 0.99365
+  response: 7E80562113A3F98
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 0.9964
+  response: 7E80562113A3FC5
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 1.00268
+  response: 7E80562113A402C
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 1.00336
+  response: 7E80562113A4037
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 1.00366
+  response: 7E80562113A403C
+- expected_values:
+    MII_LONG_TERM_THROTTLE: 1.00897
+  response: 7E80562113A4093

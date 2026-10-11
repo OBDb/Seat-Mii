@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2211AC
+test_cases:
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 7.3
+  response: 7E8056211AC0049
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 7.7
+  response: 7E8056211AC004D
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 9.6
+  response: 7E8056211AC0060
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 10
+  response: 7E8056211AC0064
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 14
+  response: 7E8056211AC008C
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 28.3
+  response: 7E8056211AC011B
+- expected_values:
+    MII_MAF_THROUGH_THROTTLE: 107.3
+  response: 7E8056211AC0431

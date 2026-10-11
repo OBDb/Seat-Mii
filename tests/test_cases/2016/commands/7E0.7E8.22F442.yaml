@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22F442
+test_cases:
+- expected_values:
+    MII_VPWR: 13.97
+  response: 7E80562F4423692
+- expected_values:
+    MII_VPWR: 14.088
+  response: 7E80562F4423708
+- expected_values:
+    MII_VPWR: 14.324
+  response: 7E80562F44237F4
+- expected_values:
+    MII_VPWR: 14.371
+  response: 7E80562F4423823

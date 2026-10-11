@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.221136
+test_cases:
+- expected_values:
+    MII_HEIGHT_CORR: 0.98925
+  response: 7E8056211363F50
+- expected_values:
+    MII_HEIGHT_CORR: 0.99078
+  response: 7E8056211363F69
+- expected_values:
+    MII_HEIGHT_CORR: 0.99194
+  response: 7E8056211363F7C
+- expected_values:
+    MII_HEIGHT_CORR: 0.99206
+  response: 7E8056211363F7E
+- expected_values:
+    MII_HEIGHT_CORR: 0.99267
+  response: 7E8056211363F88
+- expected_values:
+    MII_HEIGHT_CORR: 0.99499
+  response: 7E8056211363FAE
+- expected_values:
+    MII_HEIGHT_CORR: 1.00512
+  response: '7E8056211364054'

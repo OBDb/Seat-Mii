@@ -1,0 +1,23 @@
+command_id: 714.77E.22220C|fc=1
+test_cases:
+- expected_values:
+    MII_OUTSIDE_T: 26.5
+  response: 77E0462220C99
+- expected_values:
+    MII_OUTSIDE_T: 27
+  response: 77E0462220C9A
+- expected_values:
+    MII_OUTSIDE_T: 28
+  response: 77E0462220C9C
+- expected_values:
+    MII_OUTSIDE_T: 29
+  response: 77E0462220C9E
+- expected_values:
+    MII_OUTSIDE_T: 31
+  response: 77E0462220CA2
+- expected_values:
+    MII_OUTSIDE_T: 32
+  response: 77E0462220CA4
+- expected_values:
+    MII_OUTSIDE_T: 33
+  response: 77E0462220CA6

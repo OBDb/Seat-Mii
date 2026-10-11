@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.221139
+test_cases:
+- expected_values:
+    MII_MEAN_INJ_QUANTITY: 145.32
+  response: 7E80562113938C4
+- expected_values:
+    MII_MEAN_INJ_QUANTITY: 163.84
+  response: '7E8056211394000'
+- expected_values:
+    MII_MEAN_INJ_QUANTITY: 174.03
+  response: 7E80562113943FB
+- expected_values:
+    MII_MEAN_INJ_QUANTITY: 180.03
+  response: '7E8056211394653'

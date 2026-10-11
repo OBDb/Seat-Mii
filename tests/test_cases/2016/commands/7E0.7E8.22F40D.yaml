@@ -1,0 +1,29 @@
+command_id: 7E0.7E8.22F40D
+test_cases:
+- expected_values:
+    MII_VSS: 0
+  response: 7E80462F40D00
+- expected_values:
+    MII_VSS: 6
+  response: 7E80462F40D06
+- expected_values:
+    MII_VSS: 16
+  response: 7E80462F40D10
+- expected_values:
+    MII_VSS: 33
+  response: 7E80462F40D21
+- expected_values:
+    MII_VSS: 36
+  response: 7E80462F40D24
+- expected_values:
+    MII_VSS: 43
+  response: 7E80462F40D2B
+- expected_values:
+    MII_VSS: 52
+  response: 7E80462F40D34
+- expected_values:
+    MII_VSS: 57
+  response: 7E80462F40D39
+- expected_values:
+    MII_VSS: 64
+  response: 7E80462F40D40

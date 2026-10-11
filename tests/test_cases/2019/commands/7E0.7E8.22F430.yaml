@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.22F430
+test_cases:
+- expected_values:
+    MII_WARM_UPS: 88
+  response: 7E80462F43058
+- expected_values:
+    MII_WARM_UPS: 151
+  response: 7E80462F43097
