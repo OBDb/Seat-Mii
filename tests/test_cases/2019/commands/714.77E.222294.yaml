@@ -7,5 +7,5 @@ test_cases:
     MII_RANGE: 243
   response: 77E0562229400F3
 - expected_values:
-    MII_RANGE: 255
+    MII_RANGE: 284
   response: 77E05622294011C
