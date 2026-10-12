@@ -71,7 +71,7 @@
   ]},
 { "hdr": "714", "rax": "77E", "cmd": {"22": "2294"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
-    {"id": "MII_RANGE", "path": "Trips", "fmt": { "len": 16, "max": 255, "unit": "kilometers" }, "name": "Range remaining", "suggestedMetric": "fuelRange"}
+    {"id": "MII_RANGE", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Range remaining", "suggestedMetric": "fuelRange"}
   ]},
 { "hdr": "714", "rax": "77E", "cmd": {"22": "2299"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2020 },
   "signals": [
