@@ -61,7 +61,7 @@
   "signals": [
     {"id": "MII_ODO_DASH", "path": "Trips", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Odometer, dash", "suggestedMetric": "odometer"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "2206"}, "freq": 30, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2020 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "2206"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "MII_FLI", "path": "Fuel", "fmt": { "len": 8, "max": 255, "unit": "liters" }, "name": "Fuel level", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -77,7 +77,7 @@
   "signals": [
     {"id": "MII_FUEL_AVG", "path": "Fuel", "fmt": { "len": 16, "max": 6553.5, "div": 10, "unit": "liters" }, "name": "Fuel consumption, average"}
   ]},
-{ "hdr": "714", "rax": "77E", "cmd": {"22": "229A"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "714", "rax": "77E", "cmd": {"22": "229A"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MII_FLV", "path": "Fuel", "fmt": { "len": 16, "max": 255, "div": 8, "unit": "liters" }, "name": "Fuel remaining", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -373,7 +373,7 @@
   "signals": [
     {"id": "MII_RATED_DRIVE_TQ", "path": "Engine", "fmt": { "len": 32, "max": 214748364, "min": -214748364, "div": 10, "sign": true, "unit": "newtonMeters" }, "name": "Rated drive torque"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B4"}, "freq": 30, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "14B4"}, "freq": 1, "dbgfilter": { "to": 2013, "years": [2015, 2017, 2018], "from": 2020 },
   "signals": [
     {"id": "MII_FUEL_LEVEL_INPUT_V1", "path": "Fuel", "fmt": { "len": 16, "max": 655.35, "div": 100, "unit": "liters" }, "name": "Fuel level input, v1", "suggestedMetric": "fuelTankLevel"}
   ]},
@@ -441,7 +441,7 @@
   "signals": [
     {"id": "MII_MIL_DIST", "path": "DTCs", "fmt": { "len": 16, "max": 65535, "unit": "kilometers" }, "name": "Distance traveled while mil was activated"}
   ]},
-{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 30, "dbgfilter": { "to": 2018, "from": 2020 },
+{ "hdr": "7E0", "rax": "7E8", "cmd": {"22": "F42F"}, "freq": 1, "dbgfilter": { "to": 2018, "from": 2020 },
   "signals": [
     {"id": "MII_FLI_INPUT", "path": "Fuel", "fmt": { "len": 8, "max": 100, "mul": 100, "div": 255, "unit": "percent" }, "name": "Fuel level input %", "suggestedMetric": "fuelTankLevel"}
   ]},
